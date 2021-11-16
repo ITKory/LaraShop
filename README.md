@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-cd shop
+cd LaraShop
 
 composer install
 
