@@ -14,7 +14,7 @@ Rename .env.example в .env
 ```sh
 php artisan key:generate
 
-php artisan dev
+npm run dev
 
 php artisan serve
 ```
